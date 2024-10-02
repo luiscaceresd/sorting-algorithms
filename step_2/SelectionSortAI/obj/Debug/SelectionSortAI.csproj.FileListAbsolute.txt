@@ -1,0 +1,22 @@
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\SelectionSortAI\bin\Debug\SelectionSortAI.exe.config
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\SelectionSortAI\bin\Debug\SelectionSortAI.exe
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\SelectionSortAI\bin\Debug\SelectionSortAI.pdb
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\SelectionSortAI\obj\Debug\SelectionSortAI.csproj.AssemblyReference.cache
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\SelectionSortAI\obj\Debug\SelectionSortAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\SelectionSortAI\obj\Debug\SelectionSortAI.csproj.CoreCompileInputs.cache
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\SelectionSortAI\obj\Debug\SelectionSortAI.exe
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\SelectionSortAI\obj\Debug\SelectionSortAI.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\SelectionSortAI\obj\Debug\SelectionSortAI.csproj.AssemblyReference.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\SelectionSortAI\obj\Debug\SelectionSortAI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\SelectionSortAI\obj\Debug\SelectionSortAI.exe
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\SelectionSortAI\obj\Debug\SelectionSortAI.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\SelectionSortAI\bin\Debug\SelectionSortAI.exe.config
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\SelectionSortAI\bin\Debug\SelectionSortAI.exe
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\SelectionSortAI\bin\Debug\SelectionSortAI.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\SelectionSortAI\bin\Debug\SelectionSortAI.exe.config
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\SelectionSortAI\bin\Debug\SelectionSortAI.exe
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\SelectionSortAI\bin\Debug\SelectionSortAI.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\SelectionSortAI\obj\Debug\SelectionSortAI.csproj.AssemblyReference.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\SelectionSortAI\obj\Debug\SelectionSortAI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\SelectionSortAI\obj\Debug\SelectionSortAI.exe
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\SelectionSortAI\obj\Debug\SelectionSortAI.pdb

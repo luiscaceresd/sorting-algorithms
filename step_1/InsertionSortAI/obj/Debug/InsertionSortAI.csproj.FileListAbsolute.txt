@@ -1,0 +1,15 @@
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\InsertionSortAI\obj\Debug\InsertionSortAI.csproj.AssemblyReference.cache
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\InsertionSortAI\obj\Debug\InsertionSortAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\InsertionSortAI\obj\Debug\InsertionSortAI.csproj.CoreCompileInputs.cache
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\InsertionSortAI\bin\Debug\InsertionSortAI.exe.config
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\InsertionSortAI\bin\Debug\InsertionSortAI.exe
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\InsertionSortAI\bin\Debug\InsertionSortAI.pdb
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\InsertionSortAI\obj\Debug\InsertionSortAI.exe
+C:\Users\johns\OneDrive - New Brunswick Community College\Fall 2024\Data Structures\Examples\InsertionSortAI\obj\Debug\InsertionSortAI.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\InsertionSortAI\obj\Debug\InsertionSortAI.csproj.AssemblyReference.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\InsertionSortAI\obj\Debug\InsertionSortAI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\InsertionSortAI\obj\Debug\InsertionSortAI.exe
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\InsertionSortAI\obj\Debug\InsertionSortAI.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\InsertionSortAI\bin\Debug\InsertionSortAI.exe.config
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\InsertionSortAI\bin\Debug\InsertionSortAI.exe
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\InsertionSortAI\bin\Debug\InsertionSortAI.pdb

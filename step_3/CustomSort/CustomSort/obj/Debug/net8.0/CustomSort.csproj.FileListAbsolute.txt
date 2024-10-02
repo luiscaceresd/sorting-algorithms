@@ -1,0 +1,14 @@
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\bin\Debug\net8.0\CustomSort.exe
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\bin\Debug\net8.0\CustomSort.deps.json
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\bin\Debug\net8.0\CustomSort.runtimeconfig.json
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\bin\Debug\net8.0\CustomSort.dll
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\bin\Debug\net8.0\CustomSort.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\obj\Debug\net8.0\CustomSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\obj\Debug\net8.0\CustomSort.AssemblyInfoInputs.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\obj\Debug\net8.0\CustomSort.AssemblyInfo.cs
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\obj\Debug\net8.0\CustomSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\obj\Debug\net8.0\CustomSort.dll
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\obj\Debug\net8.0\refint\CustomSort.dll
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\obj\Debug\net8.0\CustomSort.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\obj\Debug\net8.0\CustomSort.genruntimeconfig.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_3\CustomSort\CustomSort\obj\Debug\net8.0\ref\CustomSort.dll

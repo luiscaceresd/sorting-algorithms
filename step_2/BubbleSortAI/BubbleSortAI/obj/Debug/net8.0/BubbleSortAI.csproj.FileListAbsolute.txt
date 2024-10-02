@@ -1,0 +1,42 @@
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.exe
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.deps.json
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.runtimeconfig.json
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.dll
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.pdb
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.AssemblyInfoInputs.cache
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.AssemblyInfo.cs
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.csproj.CoreCompileInputs.cache
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.dll
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\refint\BubbleSortAI.dll
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.pdb
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.genruntimeconfig.cache
+C:\Users\stephen.johnson\OneDrive - NBCC\Fall 2024\Data Structures\Examples\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\ref\BubbleSortAI.dll
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.exe
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.deps.json
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.runtimeconfig.json
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.dll
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.AssemblyInfoInputs.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.AssemblyInfo.cs
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.dll
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\refint\BubbleSortAI.dll
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.genruntimeconfig.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_1\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\ref\BubbleSortAI.dll
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.exe
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.deps.json
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.runtimeconfig.json
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.dll
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\bin\Debug\net8.0\BubbleSortAI.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.AssemblyInfoInputs.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.AssemblyInfo.cs
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.dll
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\refint\BubbleSortAI.dll
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\BubbleSortAI.genruntimeconfig.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\Fall 2024\Data structures\Luis_CaceresAssign1\step_2\BubbleSortAI\BubbleSortAI\obj\Debug\net8.0\ref\BubbleSortAI.dll
